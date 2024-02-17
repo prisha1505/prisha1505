@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **sharmamonikasharma575@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/drive/folders/1xlQ4zrKlh7B0FxqyqdUUwVRbBiUWdnXr?usp=drive_link](https://drive.google.com/drive/folders/1xlQ4zrKlh7B0FxqyqdUUwVRbBiUWdnXr?usp=drive_link)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
