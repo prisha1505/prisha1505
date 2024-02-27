@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Data Analytics and Data Visualization**
 
-- 🌱 I’m currently learning **TenserFlow**
+- 🌱 I’m currently learning **TenserFlow, Google IT Automation, UX/UI Design**
 
 - 👯 I’m looking to collaborate on **Real-World Project**
 
