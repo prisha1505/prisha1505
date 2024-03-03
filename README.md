@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prisha1505" alt="prisha1505" /></a> </p>
 
-- 🔭 I’m currently working on **Data Analytics and Data Visualization**
+- 🔭 I’m currently working on **Data Analytics**
 
 - 🌱 I’m currently learning **TenserFlow, Google IT Automation, UX/UI Design**
 
