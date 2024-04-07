@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Google Cloud Platform, Data Analytics**
 
-- 🌱 I’m currently learning **TenserFlow, Google IT Automation, UX/UI Design**
+- 🌱 I’m currently learning **TenserFlow, Google IT Automation**
 
 - 👯 I’m looking to collaborate on **Real-World Project**
 
